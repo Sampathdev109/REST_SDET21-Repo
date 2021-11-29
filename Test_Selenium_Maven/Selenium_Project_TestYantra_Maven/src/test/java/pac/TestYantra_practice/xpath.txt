@@ -1,0 +1,10 @@
+table-class-hdrTabBg
+	tbody
+		tr
+			td2
+				table
+					tbody
+						tr
+							td4
+
+			//table[@class='hdrTabBg']/tbody/tr/td[2]/table/tbody/tr/td[4]/a				
